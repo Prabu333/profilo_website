@@ -11,10 +11,9 @@ export default function Projects() {
                 description: 'A Ecommerce Website. Built with React & Firebase API',
                 link: 'https://github.com/Prabu333/e_commerce',
                 demo: 'https://tjsjmart.netlify.app'
-            }
-             ,
+            },
              {
-                 image: websiteImg1,
+                 image: 'https://ibb.co/Pvzh7XYn',
                  description: 'Food Ecommerce website like Swiggy, Built with Angular & .Net',
                  link: 'https://github.com/Prabu333/food_delivery',
                  demo: 'https://tjsjdelivery.netlify.app'
@@ -70,4 +69,5 @@ export default function Projects() {
         </section>
     );
 }
+
 
